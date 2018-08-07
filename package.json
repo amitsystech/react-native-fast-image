@@ -1,0 +1,127 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "react-native-fast-image@^4.0.14",
+        "scope": null,
+        "escapedName": "react-native-fast-image",
+        "name": "react-native-fast-image",
+        "rawSpec": "^4.0.14",
+        "spec": ">=4.0.14 <5.0.0",
+        "type": "range"
+      },
+      "/Users/stplmacmini24/Projects/Mahally/mstore-last-345/mstore-pro"
+    ]
+  ],
+  "_from": "react-native-fast-image@>=4.0.14 <5.0.0",
+  "_id": "react-native-fast-image@4.0.14",
+  "_inCache": true,
+  "_location": "/react-native-fast-image",
+  "_nodeVersion": "9.6.1",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/react-native-fast-image_4.0.14_1525922845078_0.9105817654966339"
+  },
+  "_npmUser": {
+    "name": "dylanvann",
+    "email": "dylan@dylanvann.com"
+  },
+  "_npmVersion": "6.0.0",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "react-native-fast-image@^4.0.14",
+    "scope": null,
+    "escapedName": "react-native-fast-image",
+    "name": "react-native-fast-image",
+    "rawSpec": "^4.0.14",
+    "spec": ">=4.0.14 <5.0.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-fast-image/-/react-native-fast-image-4.0.14.tgz",
+  "_shasum": "1e84c9a01b1471793e294ef4e7c3cc20e09562a0",
+  "_shrinkwrap": null,
+  "_spec": "react-native-fast-image@^4.0.14",
+  "_where": "/Users/stplmacmini24/Projects/Mahally/mstore-last-345/mstore-pro",
+  "author": {
+    "name": "Dylan Vann",
+    "email": "dylanvann@gmail.com",
+    "url": "http://dylanvann.com"
+  },
+  "bugs": {
+    "url": "https://github.com/DylanVann/react-native-fast-image/issues"
+  },
+  "dependencies": {
+    "prop-types": "^15.5.10"
+  },
+  "description": "🚩 FastImage, performant React Native image component.",
+  "devDependencies": {
+    "babel-jest": "^21.2.0",
+    "babel-preset-react-native": "^4.0.0",
+    "jest": "^21.2.1",
+    "prettier": "^1.12.1",
+    "prettier-check": "^2.0.0",
+    "react": "^16.3.0-alpha.1",
+    "react-native": "^0.54.1",
+    "react-test-renderer": "16.0.0"
+  },
+  "directories": {},
+  "dist": {
+    "integrity": "sha512-MeRgL70JxoY/hn8ZRGBsDED9SGvTEeznneL//fWZyLaG0CM+w2CH4QXAMvADnIvu2RFd8WQWNii6c6VOpVe4Tg==",
+    "shasum": "1e84c9a01b1471793e294ef4e7c3cc20e09562a0",
+    "tarball": "https://registry.npmjs.org/react-native-fast-image/-/react-native-fast-image-4.0.14.tgz",
+    "fileCount": 1620,
+    "unpackedSize": 37846319,
+    "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJa87weCRA9TVsSAnZWagAAczEP/1HVh0IrJbp/pUW5M8oY\nxtiOdT0zYi8cGxRS9iyist/Trig3j36+0H7WiKAIUGn0EwjzxiIsIMviymrP\nqVFI8PtmuYT/OUaoZ9tzapDSjSysNhYq+jSTLV9FTGyg+9eClMDlJJeLht5Y\nq8XhCE6/mRdPCvo+jIRbzHmDHoh5+XLnIypgbHVrKMN9qFwj3W7zqTEIDH63\nOxIMO21a4+zsPTbY3TyVThR8PLvrrWzWRf/kTg86DoIsJx62fmWtULq6Ek83\nMlXdDELqFf7vG+AAgrTvpPAazkVAya5ThjCb8n2iskXixn844M5ZWZ4SmQGZ\n0zSTTx2OL+S1d4o0VWVlxVDYOLQDfRQtim1BVRp36brBzRv6WyDOh0BssS0v\nx0PJtqW8y2gNZyYYjEFgP/5Ja+59kUzpbW3W+XlDZgz0N5jizZTU4U3koiIp\nt4DyKJICzo4x9bPfZKNPIm4DF+kNuYLeseSPPQgPkoX1AecS8mUJf71LHHvA\nTnPJYwxDUDa1I4KvkGKqGGBGWw11dPCWstx1uV7r9kFpLm2YFe+/8QcOP9cT\nAGJGmSKTAdrpiOcaOxi0g6IJLc+Vt5jQoccKi84Qflr5lt9YJ6nhnBCzkhWB\nb2uVJJEzDAqcGY+RvLdxOxD6mzeP2AVIMvuCeLJ2Ve7yMoiD3nfOCjgiHskF\n8uxh\r\n=1YbD\r\n-----END PGP SIGNATURE-----\r\n"
+  },
+  "files": [
+    "ios/FastImage",
+    "ios/Vendor",
+    "ios/FastImage.xcodeproj",
+    "android",
+    "index.js",
+    "index.d.ts",
+    "react-native-fast-image.podspec"
+  ],
+  "gitHead": "827d31443f9c2048816be69b2b92f7e1d07dc5a1",
+  "homepage": "https://github.com/DylanVann/react-native-fast-image#readme",
+  "jest": {
+    "preset": "react-native",
+    "modulePathIgnorePatterns": [
+      "ReactNativeFastImageExample",
+      "ReactNativeFastImageCocoaPodsExample",
+      "react-native-fast-image-server"
+    ]
+  },
+  "keywords": [
+    "cache",
+    "cached",
+    "fastimage",
+    "image",
+    "priority"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "dylanvann",
+      "email": "dylan.vann@gmail.com"
+    }
+  ],
+  "name": "react-native-fast-image",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DylanVann/react-native-fast-image.git"
+  },
+  "scripts": {
+    "format": "prettier --write --list-different ./*.js ./ReactNativeFastImageExample/src/*.js ./react-native-fast-image-server/*.js",
+    "prepare": "git submodule update --init --recursive",
+    "test": "yarn run format && yarn run test:jest",
+    "test:jest": "jest *.js"
+  },
+  "version": "4.0.14"
+}
